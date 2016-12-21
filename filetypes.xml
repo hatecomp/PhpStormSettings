@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="15">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;cache/smarty;rcs;" />
+    <extensionMap>
+      <mapping ext="csv" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
