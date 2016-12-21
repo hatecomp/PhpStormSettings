@@ -1,0 +1,2 @@
+# PhpStormSettings
+PhpStorm IDE settings
