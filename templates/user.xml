@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="dumo" value="echo __FILE__ . &quot;:&quot; . __LINE__ . &quot; &lt;pre&gt;&quot;;&#10;print_r($END$);&#10;echo &quot;&lt;/pre&gt;&quot;;&#10;die();" description="print pre" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
