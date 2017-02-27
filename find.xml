@@ -15,6 +15,7 @@
       <mask>Admin*.php</mask>
       <mask>*Controller.php</mask>
       <mask>*.php</mask>
+      <mask>*.orig</mask>
     </recentFileMasks>
   </component>
 </application>
