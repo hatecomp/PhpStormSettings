@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="filter.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,12 +12,14 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>config.module.php</mask>
-      <mask>*.tpl</mask>
       <mask>Admin*.php</mask>
       <mask>*Controller.php</mask>
       <mask>*.php</mask>
       <mask>*.orig</mask>
       <mask>Plugin*.php</mask>
+      <mask>*.tpl</mask>
+      <mask>list.tpl</mask>
+      <mask>filter.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
