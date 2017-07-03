@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Plugin*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,10 +21,20 @@
       <mask>*Controller.php</mask>
       <mask>*.php</mask>
       <mask>*.orig</mask>
-      <mask>Plugin*.php</mask>
       <mask>*.tpl</mask>
       <mask>list.tpl</mask>
       <mask>filter.tpl</mask>
+      <mask>P</mask>
+      <mask>Pl</mask>
+      <mask>Plu</mask>
+      <mask>Plug</mask>
+      <mask>Plugi</mask>
+      <mask>Plugin</mask>
+      <mask>Plugin*</mask>
+      <mask>Plugin*.</mask>
+      <mask>Plugin*.p</mask>
+      <mask>Plugin*.ph</mask>
+      <mask>Plugin*.php</mask>
     </recentFileMasks>
   </component>
 </application>
