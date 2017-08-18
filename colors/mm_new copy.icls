@@ -1,0 +1,34 @@
+<scheme name="mm_new copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-08-18T11:49:19</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.0.0</property>
+    <property name="modified">2017-08-18T12:03:46</property>
+    <property name="originalScheme">mm_new</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="CARET_COLOR" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="e6e6e6" />
+    <option name="GUTTER_BACKGROUND" value="ececec" />
+    <option name="READONLY_BACKGROUND" value="" />
+    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="WHITESPACES" value="f4f4f4" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="BACKGROUND" value="f3f3f3" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f3f3f3" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
