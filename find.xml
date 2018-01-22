@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -15,7 +16,6 @@
       <mask>*.mxml</mask>
       <mask>config.module.php</mask>
       <mask>*Controller.php</mask>
-      <mask>*.php</mask>
       <mask>*.orig</mask>
       <mask>*.tpl</mask>
       <mask>list.tpl</mask>
@@ -36,6 +36,7 @@
       <mask>Adm*.php</mask>
       <mask>Admi*.php</mask>
       <mask>Admin*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
