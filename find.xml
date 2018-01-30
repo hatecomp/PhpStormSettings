@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="filter.tpl" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -17,7 +18,6 @@
       <mask>*Controller.php</mask>
       <mask>*.orig</mask>
       <mask>list.tpl</mask>
-      <mask>filter.tpl</mask>
       <mask>P</mask>
       <mask>Pl</mask>
       <mask>Plu</mask>
@@ -36,6 +36,7 @@
       <mask>Admin*.php</mask>
       <mask>*.php</mask>
       <mask>*.tpl</mask>
+      <mask>filter.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
