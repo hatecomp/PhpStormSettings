@@ -5,37 +5,17 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>config.module.php</mask>
-      <mask>*Controller.php</mask>
-      <mask>*.orig</mask>
-      <mask>list.tpl</mask>
-      <mask>P</mask>
-      <mask>Pl</mask>
-      <mask>Plu</mask>
-      <mask>Plug</mask>
-      <mask>Plugi</mask>
-      <mask>Plugin</mask>
-      <mask>Plugin*</mask>
-      <mask>Plugin*.</mask>
-      <mask>Plugin*.p</mask>
-      <mask>Plugin*.ph</mask>
-      <mask>Plugin*.php</mask>
-      <mask>A*.php</mask>
-      <mask>Ad*.php</mask>
-      <mask>Adm*.php</mask>
-      <mask>Admi*.php</mask>
-      <mask>Admin*.php</mask>
-      <mask>*.tpl</mask>
-      <mask>filter.tpl</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.tpl" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
