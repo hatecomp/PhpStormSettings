@@ -59,7 +59,7 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="6.0.8112.100" />
+      <artifact name="SQL Server" rolling="false" use="true" version="6.0.8112.100" />
       <option name="auto-sync" value="false" />
       <option name="send-app-info" value="true" />
       <option name="auto-commit" value="true" />
