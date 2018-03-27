@@ -3,6 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;cache/smarty;rcs;" />
     <extensionMap>
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="deploy-vhost" type="PLAIN_TEXT" />
+      <mapping pattern="deploy-vhost.conf" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
     </extensionMap>
