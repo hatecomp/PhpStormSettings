@@ -35,6 +35,10 @@
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
@@ -49,20 +53,23 @@
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="db2">
       <artifact name="DB2" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" rolling="false" use="true" version="6.0.8112.100" />
+      <artifact name="SQL Server" use="true" version="6.0.8112.100" />
       <option name="auto-sync" value="false" />
       <option name="send-app-info" value="true" />
       <option name="auto-commit" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="java.sql.Driver" name="Database Driver" driver-class="java.sql.Driver">
       <option name="auto-commit" value="true" />
