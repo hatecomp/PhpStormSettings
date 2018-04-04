@@ -10,6 +10,17 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
+    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="NEW_LINE_AFTER_SELECT_2" value="2" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="ALIAS_CASE" value="2" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="1" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
