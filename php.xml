@@ -13,20 +13,157 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\wamp\bin\php\php5.6.37\php.exe" id="fce2c14b-ce28-484f-abb3-3ca4e882af6c" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp\bin\php\php7.0.27\php.exe" id="25d4cc39-ee76-42f3-979a-3004a554d850" name="PHP 7.0.27" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp\bin\php\php7.1.14\php.exe" id="de3145a2-4a9d-49fb-a88a-7baebcc0e474" name="PHP 7.1.14" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\wamp64\bin\php\php5.6.40\php.exe" id="fce2c14b-ce28-484f-abb3-3ca4e882af6c" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\wamp64\bin\php\php7.0.33\php.exe" id="25d4cc39-ee76-42f3-979a-3004a554d850" name="PHP 7.0" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\wamp64\bin\php\php7.1.26\php.exe" id="de3145a2-4a9d-49fb-a88a-7baebcc0e474" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\wamp\bin\php\php5.4.45\php.exe" id="550f2253-14c4-403e-9b58-232c1c23fce0" name="PHP 5.4" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp\bin\php\php7.2.8\php.exe" id="6ed71f4a-6e8c-4c4f-8672-6a63433bd99c" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp\bin\php\php7.3.1\php.exe" id="5358ed72-d49b-47c5-a40c-8ce9effcccde" name="PHP 7.3" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\wamp64\bin\php\php7.2.14\php.exe" id="6ed71f4a-6e8c-4c4f-8672-6a63433bd99c" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\wamp64\bin\php\php7.3.2\php.exe" id="5358ed72-d49b-47c5-a40c-8ce9effcccde" name="PHP 7.3" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="C:\wamp\bin\php\php7.3.1\php-cgi.exe" php_cli="C:\wamp\bin\php\php7.3.1\php.exe" path_separator=";" version="7.3.1">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.3.2\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.3.2\php.exe" path_separator=";" version="7.3.2">
           <additional_php_ini />
-          <configuration_file>C:\wamp\bin\php\php7.3.1\php.ini</configuration_file>
+          <configuration_file>C:\wamp64\bin\php\php7.3.2\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.7.0RC2">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="com_dotnet" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="imap" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pdo_sqlsrv" />
+            <extension name="pgsql" />
+            <extension name="phpdbg_webhelper" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="sqlsrv" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlrpc" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 5.6">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php5.6.40\php-cgi.exe" php_cli="C:\wamp64\bin\php\php5.6.40\php.exe" path_separator=";" version="5.6.40">
+          <additional_php_ini />
+          <configuration_file>C:\wamp64\bin\php\php5.6.40\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="ereg" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="imap" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mcrypt" />
+            <extension name="mhash" />
+            <extension name="mysql" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlrpc" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 7.1">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.1.26\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.1.26\php.exe" path_separator=";" version="7.1.26">
+          <additional_php_ini />
+          <configuration_file>C:\wamp64\bin\php\php7.1.26\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -59,6 +196,7 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
@@ -69,158 +207,10 @@
             <extension name="session" />
             <extension name="soap" />
             <extension name="sockets" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlrpc" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="C:\wamp\bin\php\php5.6.37\php-cgi.exe" php_cli="C:\wamp\bin\php\php5.6.37\php.exe" path_separator=";" version="5.6.37">
-          <additional_php_ini />
-          <configuration_file>C:\wamp\bin\php\php5.6.37\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".;C:\php\pear" />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.5">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="PDO_ODBC" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="com_dotnet" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="ereg" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="gmp" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="imap" />
-            <extension name="intl" />
-            <extension name="json" />
-            <extension name="ldap" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mhash" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="odbc" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pdo_sqlsrv" />
-            <extension name="session" />
-            <extension name="shmop" />
-            <extension name="soap" />
-            <extension name="sockets" />
             <extension name="sqlite3" />
-            <extension name="sqlsrv" />
             <extension name="standard" />
-            <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlrpc" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.0.27">
-        <phpinfo binary_type="PHP" php_cgi="C:\wamp\bin\php\php7.0.27\php-cgi.exe" php_cli="C:\wamp\bin\php\php7.0.27\php.exe" path_separator=";" version="7.0.27">
-          <additional_php_ini />
-          <configuration_file>C:\wamp\bin\php\php7.0.27\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".;C:\php\pear" />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="PDO_ODBC" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="com_dotnet" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="gmp" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="imap" />
-            <extension name="intl" />
-            <extension name="json" />
-            <extension name="ldap" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pdo_sqlsrv" />
-            <extension name="phpdbg_webhelper" />
-            <extension name="session" />
-            <extension name="shmop" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sqlite3" />
-            <extension name="sqlsrv" />
-            <extension name="standard" />
-            <extension name="tidy" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
@@ -303,17 +293,13 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="C:\wamp\bin\php\php7.2.8\php-cgi.exe" php_cli="C:\wamp\bin\php\php7.2.8\php.exe" path_separator=";" version="7.2.8">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.2.14\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.2.14\php.exe" path_separator=";" version="7.2.14">
           <additional_php_ini />
-          <configuration_file>C:\wamp\bin\php\php7.2.8\php.ini</configuration_file>
+          <configuration_file>C:\wamp64\bin\php\php7.2.14\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -321,7 +307,6 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -349,18 +334,13 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
-            <extension name="pdo_sqlsrv" />
-            <extension name="phpdbg_webhelper" />
             <extension name="readline" />
             <extension name="session" />
             <extension name="soap" />
             <extension name="sockets" />
-            <extension name="sodium" />
-            <extension name="sqlsrv" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
@@ -371,18 +351,14 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 7.1.14">
-        <phpinfo binary_type="PHP" php_cgi="C:\wamp\bin\php\php7.1.14\php-cgi.exe" php_cli="C:\wamp\bin\php\php7.1.14\php.exe" path_separator=";" version="7.1.14">
+      <interpreter name="PHP 7.0">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.0.33\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.0.33\php.exe" path_separator=";" version="7.0.33">
           <additional_php_ini />
-          <configuration_file>C:\wamp\bin\php\php7.1.14\php.ini</configuration_file>
+          <configuration_file>C:\wamp64\bin\php\php7.0.33\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -390,11 +366,9 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
-            <extension name="com_dotnet" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
@@ -402,7 +376,6 @@
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
-            <extension name="ftp" />
             <extension name="gd" />
             <extension name="gettext" />
             <extension name="gmp" />
@@ -421,20 +394,13 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
-            <extension name="pdo_sqlsrv" />
-            <extension name="phpdbg_webhelper" />
-            <extension name="readline" />
             <extension name="session" />
-            <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
             <extension name="sqlite3" />
-            <extension name="sqlsrv" />
             <extension name="standard" />
-            <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
