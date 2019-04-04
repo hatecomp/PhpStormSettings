@@ -60,6 +60,11 @@
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
   </SqlCodeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
