@@ -13,25 +13,25 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\wamp64\bin\php\php5.6.40\php.exe" id="fce2c14b-ce28-484f-abb3-3ca4e882af6c" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp64\bin\php\php7.0.33\php.exe" id="25d4cc39-ee76-42f3-979a-3004a554d850" name="PHP 7.0" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp64\bin\php\php7.1.26\php.exe" id="de3145a2-4a9d-49fb-a88a-7baebcc0e474" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp\bin\php\php5.4.45\php.exe" id="550f2253-14c4-403e-9b58-232c1c23fce0" name="PHP 5.4" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp64\bin\php\php7.2.14\php.exe" id="6ed71f4a-6e8c-4c4f-8672-6a63433bd99c" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp64\bin\php\php7.3.2\php.exe" id="5358ed72-d49b-47c5-a40c-8ce9effcccde" name="PHP 7.3" debugger_id="php.debugger.XDebug" />
+      <interpreter id="fce2c14b-ce28-484f-abb3-3ca4e882af6c" name="PHP 5.6" home="C:\wamp64\bin\php\php5.6.40\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="25d4cc39-ee76-42f3-979a-3004a554d850" name="PHP 7.0" home="C:\wamp64\bin\php\php7.0.33\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="de3145a2-4a9d-49fb-a88a-7baebcc0e474" name="PHP 7.1" home="C:\wamp64\bin\php\php7.1.26\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="550f2253-14c4-403e-9b58-232c1c23fce0" name="PHP 5.4" home="C:\wamp\bin\php\php5.4.45\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="6ed71f4a-6e8c-4c4f-8672-6a63433bd99c" name="PHP 7.2" home="C:\wamp64\bin\php\php7.2.14\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="5358ed72-d49b-47c5-a40c-8ce9effcccde" name="PHP 7.3" home="C:\wamp64\bin\php\php7.3.4\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.3.2\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.3.2\php.exe" path_separator=";" version="7.3.2">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.3.4\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.3.4\php.exe" path_separator=";" version="7.3.4">
           <additional_php_ini />
-          <configuration_file>C:\wamp64\bin\php\php7.3.2\php.ini</configuration_file>
+          <configuration_file>C:\wamp64\bin\php\php7.3.4\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.0RC2">
+            <debugger_info debugger="xdebug" debugger_version="2.7.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
